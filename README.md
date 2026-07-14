@@ -14,4 +14,5 @@ https://www.sktenterprise.com/bizInsight/blog/developerStory
 
 
 국내 ai 학습용 데이터 
+
 https://aihub.or.kr/
